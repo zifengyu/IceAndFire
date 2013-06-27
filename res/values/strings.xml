@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">冰与火之歌</string>    
+    <string name="menu_title_feedback">意见反馈</string>
+    
+    
+    <string name="baseline_character">豐</string>
+    <string name="config_theme">模式切换</string>
+    <string name="config_fontsize">字体大小</string>
+    
+    <string name="chapter_dialog_title">选择章节</string>
+    
+    <string name="book1_name">卷一：权利的游戏</string>
+    <string name="book2_name">卷二：列王的纷争</string>
+    <string name="book3_name">卷三：冰雨的风暴</string>
+    <string name="book4_name">卷四：群鸦的盛宴</string>
+    <string name="book5_name">卷五：魔龙的狂舞</string>
+    
+    <string name="ad_keyword">艾莉亚</string>
+    
+</resources>
